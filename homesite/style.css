@@ -1,0 +1,12 @@
+:root{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    --transition-speed: 600ms;
+}
+
+#content{
+ background-color: rgba(191, 212, 243, 0.726);
+ width: 300px;
+ height: 400px;
+
+}
